@@ -1,19 +1,2 @@
-CThis is the DummyFile.:w
-:q
-A:q
-:w
-
-
-A
-B
-B
-B
-B
-B
-B
-B
-B
-B
-B
-
+This is the Dummy File for Test.
 
